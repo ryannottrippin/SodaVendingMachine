@@ -7,6 +7,7 @@ class PopMachine : public Appliance {
   //What makes pop machine unique from other appliances?
   //What does a pop machine need to do that a coin op 
   //dryer does not need to do?
+  
   public:
 
   virtual void currency_processor(float amount) override {

@@ -4,8 +4,8 @@
 // that I promise to implement in a subclass somewhere
 // Contains methods any appliance would have
 // Examples include:
-//     coin op washer, food vending machine
-//     soda vending machine, coin op dryer
+//    coin op washer, food vending machine
+//    soda vending machine, coin op dryer
 
 class IAppliance {
 public:
